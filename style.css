@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    display: flex;
+}
+.titre {
+    text-decoration: none;
+    color: black;
+}
+.icon{
+    width: 4em;
+    height: 4em;
+}
+#exampleInputNumber1 {
+    border-color: green;
+}
+#exampleInputNumber2 {
+    border-color: rgb(251, 86, 86);
+}
+#exampleInputText1 {
+    border-color: rgb(251, 86, 86);
+}
+.icons {
+    font-size: 4em;
+    color: #05668E;
+}
+#icona {
+    color: #327B21;
+}
+#iconb {
+    color: #DC3545;
+}
+#iconc {
+    color: black;
+}
+.bi-pencil-square {
+    color: #05668E;
+}
+.bi-trash3-fill {
+    color: #DC3545;
+}
+.list-item {
+    text-decoration: underline;
+}
